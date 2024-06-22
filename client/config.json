@@ -1,0 +1,4 @@
+{
+    "secret": "server_secret",
+    "server": "http://localhost:8080"
+}
